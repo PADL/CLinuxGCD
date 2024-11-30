@@ -1,0 +1,3 @@
+module CDispatchHeaders {
+    header "dispatch/dispatch.h"
+}
